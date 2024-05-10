@@ -1,0 +1,65 @@
+/* Body Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 40;
+    padding: 10;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/* Header Styles */
+h1 {
+    color: #333;
+}
+
+/* Image Styles */
+img {
+    border-radius: 50%; /* Apply rounded corners */
+    margin-bottom: 20px;
+    display: block; /* Ensure the image is displayed as a block element */
+    margin: 0 auto; /* Center the image horizontally */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+    max-width: 100%; /* Ensure the image does not exceed its container's width */
+    height: auto; /* Maintain aspect ratio */
+}
+
+/* Paragraph Styles */
+p {
+    line-height: 1.6;
+    color: #000000;
+    text-align: justify;
+}
+
+/* Section Header Styles */
+h2 {
+    color: #007bff;
+}
+
+/* List Styles */
+ol {
+    padding-left: 20px;
+}
+
+/* List Item Styles */
+li {
+    margin-bottom: 10px;
+}
+
+/* Experience Section Styles */
+h4 {
+    color: #333;
+    margin-top: 20px;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
